@@ -26,16 +26,18 @@ Aqui estão algumas idéias para você começar:
     <img align="center" alt="Menez-Bootstrap" height="30" width="60" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   </div>
   
-  <div style="display: inline_block"><br>
-    <a href="https://twitter.com/@DevMenez">    
+  ##
+  
+  <div style="display: inline_block">
+    <a href="https://twitter.com/@DevMenez" target="_blank">    
       <img align="center" alt="Menez-Twitter" height="30" width="90" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     
-    <a href="https://swamy.menezes@gmail.com">
+    <a href="mailto:swamy.menezes@gmail.com">
       <img align="center" alt="Menez-Gmail" height="30" width="90" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     
-    <a href="https://guithub.com/swamy-menezes">
+    <a href="https://guithub.com/swamy-menezes" target="_blank">
       <img align="center" alt="Menez-GitHub" height="30" width="90" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
   </div>
