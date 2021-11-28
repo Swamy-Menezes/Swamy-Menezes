@@ -2,7 +2,7 @@
 
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas pela UNINASSAU
 - 🌱 Programador autodidata há mais de 20 anos
-- 🌱 Objetivo: Devs Full Stack
+- 🌱 Objetivo: Full Stack Developer
 - 🌱 Atualmente: Senior no Front-End e Junior no Back-End
 
   <div>
