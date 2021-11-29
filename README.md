@@ -3,7 +3,7 @@
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas pela UNINASSAU
 - 🌱 Programador autodidata há mais de 20 anos
 - 🌱 Objetivo: Full Stack Developer
-- 🌱 Atualmente: Senior no Front-End e Junior no Back-End
+- 🌱 Atualmente: Pleno no Front-End e Junior no Back-End
 
   <div>
     <a href="https://github.com/swamy-menezes">
